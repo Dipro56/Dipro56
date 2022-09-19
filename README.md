@@ -19,10 +19,6 @@ I introduce myself as a motivated individual who can operate on management and t
 
 
 
-[Sadat_resume](https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
-
-
-
 
 ### 🤝 Connect with me:
 <p align="left">
