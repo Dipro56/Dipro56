@@ -4,7 +4,7 @@ Hi there, I'm Sadat Shahriar 👋
 
 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I introduce myself as a motivated individual who can operate on management and technical levels. Currently working in MERN stack. I am passionate about moblie and web application development. Beside this i am experienced in UI/UX designing. 
 
 
 
@@ -15,8 +15,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - 📫 How to reach me **sadatshahriarbari@gmail.com**
 
-- 📄 Know about my experiences [Sadat's resume]
-(https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
+- 📄 Know about my experiences 
+[Sadat's resume] (https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
 
 ### 🤝 Connect with me:
 <p align="left">
