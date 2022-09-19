@@ -15,11 +15,13 @@ I introduce myself as a motivated individual who can operate on management and t
 
 - 📫 How to reach me **sadatshahriarbari@gmail.com**
 
-- 📄 Know about my experiences 
-[Sadat's resume] (https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
+- 📄 My resume <a href="https://www.google.com/](https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharin)" target="_blank">Sadat's resume</a>
 
 
-[I'm an inline-style link](https://www.google.com)
+<!-- [Sadat's resume] (https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
+ -->
+
+
 
 ### 🤝 Connect with me:
 <p align="left">
