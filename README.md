@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://unsplash.com/s/photos/coding" alt="my banner"></a>
+  <img src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRlc2t0b3AlMjBjb21wdXRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -26,7 +26,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sadat shahriar bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadat shahriar bari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadat shahriar bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadat shahriar bari" width="21px" /></a>
 <a href="https://fb.com/sadat shahriar bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadat shahriar bari" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dipro3138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dipro3138" height="30" width="40" /></a>
 </p>
