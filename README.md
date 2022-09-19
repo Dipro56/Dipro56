@@ -17,7 +17,7 @@ I introduce myself as a motivated individual who can operate on management and t
 
 
 [Sadat_resume] (https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
 
 
 
