@@ -18,6 +18,9 @@ I introduce myself as a motivated individual who can operate on management and t
 - 📄 Know about my experiences 
 [Sadat's resume] (https://drive.google.com/file/d/1VJ_JAmAuG5j9qQabXmyjG0UMn3lqYFOc/view?usp=sharing)
 
+
+[I'm an inline-style link](https://www.google.com)
+
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sadat-sahahriar-bari-dipro-4315b41a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadat shahriar bari" width="21px" /></a>
