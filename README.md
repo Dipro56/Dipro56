@@ -36,3 +36,6 @@ I introduce myself as a motivated individual who can operate on management and t
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipro56&show_icons=true&locale=en" alt="dipro56" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipro56&" alt="dipro56" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
