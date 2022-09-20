@@ -33,7 +33,7 @@ I introduce myself as a motivated individual who can operate on management and t
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipro56&show_icons=true&locale=en&layout=compact" alt="dipro56" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipro56)](https://github.com/Dipro56/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipro56&show_icons=true&locale=en" alt="dipro56" /></p>
 
