@@ -15,7 +15,7 @@ I introduce myself as a motivated individual who can operate on management and t
 
 - 📫 How to reach me **sadatshahriarbari@gmail.com**
 
-- 📝 Get my resume  [Sadat's CV](https://drive.google.com/drive/u/2/folders/1txLvt70MRS9MLFvczarkxYu-IhH7ODKR)
+- 📝 Get my resume  [Sadat's CV](https://drive.google.com/file/d/1mmMkBb2laaLz1x-fE76ef2mOhB6hL2-o/view?usp=sharing)
 
 
 
