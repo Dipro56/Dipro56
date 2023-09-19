@@ -4,7 +4,9 @@ Hi there, I'm Sadat Shahriar 👋
 
 
 
-I introduce myself as a motivated individual who can operate on management and technical levels. Currently working in MERN stack. I am passionate about moblie and web application development. Beside this i am experienced in UI/UX designing. 
+I am always enthusiastic about learning new things. I always try to follow the best programming practices and provide a stable solution for any problem that i solve. Currently working as a Software Engineer (Front-end). Areas of my expertise are web and mobile application development with framework related to Javascript specially Next.js, React native framework and React library.
+
+Apart from this you are always welcome to poke me on having conversation about football, cricket and new product idea.
 
 
 
@@ -15,7 +17,7 @@ I introduce myself as a motivated individual who can operate on management and t
 
 - 📫 How to reach me **sadatshahriarbari@gmail.com**
 
-- 📝 Get my resume  [Sadat's CV](https://drive.google.com/file/d/1mmMkBb2laaLz1x-fE76ef2mOhB6hL2-o/view?usp=sharing)
+- 📝 Get my resume  [Sadat's CV](https://drive.google.com/file/d/1ubqto_zaJba3fclngxHHNxSXsqyvSfov/view?usp=sharing)
 
 
 
