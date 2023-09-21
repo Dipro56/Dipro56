@@ -17,7 +17,7 @@ Apart from this you are always welcome to poke me on having conversation about f
 
 - 📫 How to reach me **sadatshahriarbari@gmail.com**
 
-- 📝 Get my resume  [Sadat's CV](https://drive.google.com/file/d/1ubqto_zaJba3fclngxHHNxSXsqyvSfov/view?usp=sharing)
+- 📝 Get my resume  [Sadat's CV](https://drive.google.com/file/d/18Q_ze90ueAfHbXn1r-yKiKbwfCewdm3n/view?usp=sharing)
 
 
 
